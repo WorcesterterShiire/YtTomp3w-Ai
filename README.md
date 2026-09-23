@@ -6,6 +6,7 @@ Put the path in environment variable under user variable and edit path and put i
 example path: C:\ffmpeg-9.0.1-essentials_build\ffmpeg-9.0.1-essentials_build\bin
 
 REMINDER!!! When downloading from a playlist make sure it is the playlist link itself
+Run this on you cmd if you have an **outdated version** of deno or ffmpeg : pip install -U yt-dlp yt-dlp-ejs
 
 ffmpeg link : https://www.gyan.dev/ffmpeg/builds/
 deno link   : https://github.com/denoland/deno/releases <img width="1096" height="80" alt="image" src="https://github.com/user-attachments/assets/650a7445-ca97-497e-84ed-c6ccedcd2bb2" />
