@@ -1,4 +1,6 @@
 """
+Version 2
+
 Playlist to MP3 Downloader
 ---------------------------
 Paste a playlist URL (YouTube, YouTube Music, SoundCloud, etc. — anything
